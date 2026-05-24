@@ -6,7 +6,7 @@ function subtract (a,b) {return a-b}
 function divide (a, b) {return a/b}
 function multiply (a,b) {return a*b}
 
-console.log("addiction");
+console.log("addition");
 console.log(add(item1, item2))
 
 console.log ("subtraction")
